@@ -1,0 +1,35 @@
+[
+  
+  {
+    "name": "Femella Clone",
+    "desc": "Femella is an online Women's Cloting Website with diff Styles<br>TechStack-React,Redux,fireBase,ChakraUI,<br>HTML,CSS",
+    "image": "p-1",
+    "category": "mern",
+    "links": {
+      "view": "https://femellaa.netlify.app/",
+      "code": "https://github.com/Dheeraj-Bhandari/femella-clone"
+    }
+  },
+  {
+    "name": "Zomato CLone",
+    "desc": "Food ordering online website,Here you can order food from restaurants as you like<br>TechStack-JavaScript,HTML,CSS,BootStrap,JsonServer",
+    "image": "p-2",
+    "category": "mern",
+    "links": {
+      "view": "https://clone-zomato-project.netlify.app/",
+      "code": "https://github.com/Rajatsinha05/Zomato-clone"
+    }
+  },
+  {
+    "name": "MyNetDairy Clone",
+    "desc": "MyNetDairy an website which helps you to maintain your Diet and Health on Daily Basis Scenario<br>TechStack-HTML,CSS,JavaScript,JSON Server",
+    "image": "p-3",
+    "category": "mern",
+    "links": {
+      "view": "https://my-net-dairy-masai-project.netlify.app/",
+      "code": "https://github.com/Pranesh1221/Masai-MyNetDiary-Project"
+    }
+  }
+
+]
+
